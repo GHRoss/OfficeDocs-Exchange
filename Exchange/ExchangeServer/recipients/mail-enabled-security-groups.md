@@ -193,7 +193,7 @@ To verify that you've successfully created a mail-enabled security group, do any
 
 ![In the EAC, click Recipients, Groups, select the Security Group, and then click Edit](../media/27065433-0942-43cd-88c2-65f635972376.png)
 
-    When your finished, click **Save** or **Cancel**.
+    When you're finished, click **Save** or **Cancel**.
 
 #### General
 <a name="general"> </a>
